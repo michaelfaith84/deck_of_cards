@@ -1,6 +1,6 @@
 import {CardModel, DENOMINATIONS, SUITS} from "./card.model";
 import {shuffle} from "./common.functions";
-import { cloneDeep } from "lodash"
+import {cloneDeep} from "lodash"
 
 export class ShoeModel<CardType extends CardModel> {
     private _cardsTemplate: CardType[]

@@ -1,4 +1,3 @@
-import {PlayerModel} from "./player.model";
 import {DeckModel} from "./deck.model";
 import {ShoeModel} from "./shoe.model";
 import {CardModel} from "./card.model";
