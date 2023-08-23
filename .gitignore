@@ -1,0 +1,5 @@
+# Project exclude paths
+/src/games/casino_blackjack/casino_blackjack_hand.model.js
+/src/games/casino_blackjack/casino_blackjack_player.model.js
+/node_modules/*
+/coverage/*
