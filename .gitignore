@@ -3,5 +3,5 @@
 /src/games/casino_blackjack/casino_blackjack_player.model.js
 /node_modules/*
 /coverage/*
-/src/*.js
+#/src/*.js
 /src/games/*/*.js
